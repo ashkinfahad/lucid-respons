@@ -1,0 +1,36 @@
+@media(min-width:0px) and (max-width:767px){
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin: 5px 0;
+    }
+    .feature-content {
+        margin-bottom: 30px;
+    }
+    .contuct_us {
+    
+        text-align: center;
+    }
+}
+
+@media(min-width:0px) and (max-width:575px){
+    .phone {
+        display: none;
+    }
+    .header-content {
+        text-align: center;
+    }
+    .contuct_form {
+       
+        padding: 20px;
+        width: 80%;
+        top: 53%;
+        
+    }
+    
+}
+
